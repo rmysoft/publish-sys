@@ -17,6 +17,9 @@
 #### 操作视频
 https://www.bilibili.com/video/BV1mV4y1f7Jq/?vd_source=d11869e13dfa6389fd0796de69d9899f
 
+#### 体验地址
+* 地址：http://infp.freehk.svipss.top/ims
+* 用户密码: admin/admin123
 
 #### 系统功能
 1产品化软件功能-系统平台
