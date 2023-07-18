@@ -19,7 +19,7 @@
 https://www.bilibili.com/video/BV1mV4y1f7Jq/?vd_source=d11869e13dfa6389fd0796de69d9899f
 
 #### 体验地址
-* 地址：http://110.42.234.26:8090/ims
+* 地址：http://111.67.197.239:8090/ims
 * 用户密码: admin/admin123
 
 #### 系统功能
