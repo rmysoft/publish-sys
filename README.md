@@ -22,6 +22,9 @@ https://www.bilibili.com/video/BV1mV4y1f7Jq/?vd_source=d11869e13dfa6389fd0796de6
 * 地址：http://110.42.234.26:8090/ims/
 * 用户密码: admin/admin123
 
+#### 演示视频
+https://www.bilibili.com/video/BV1Hu4y1U7MD/?vd_source=d11869e13dfa6389fd0796de69d9899f
+
 #### 系统功能
 1产品化软件功能-系统平台
 
