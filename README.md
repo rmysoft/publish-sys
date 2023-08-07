@@ -15,6 +15,9 @@
 #### 软件架构
 ![](./doc/框架图2.png)
 
+#### 安装部署
+支持Docker一键安装部署！
+
 #### 操作视频
 https://www.bilibili.com/video/BV1mV4y1f7Jq/?vd_source=d11869e13dfa6389fd0796de69d9899f
 
